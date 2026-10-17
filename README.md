@@ -18,6 +18,9 @@ Click to view the core documentation I created:
 *  **[Project Charter](./artifacts/project-charter.md)** - Summary, goals, scope and exclusions, deliverables, costs and benefits, risks, and six documented stakeholder misalignments with decisions.
 *  **[SMART Goals Analysis](./artifacts/smart-goals-analysis.md)** - Every goal tested against the five SMART criteria, gaps flagged, and five goals rewritten.
 *  **[Stakeholder Analysis](./artifacts/stakeholder-analysis.md)** - Power and interest ratings, an engagement plan for each person, and the [power-interest grid](./artifacts/stakeholder-power-interest-grid.png).
+*  closeout-report.md
+*  project-plan.xlsx
+*  retrospective-review.xlsx
 
 ##  Highlights
 
