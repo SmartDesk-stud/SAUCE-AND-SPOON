@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33274991/README.md)
 #  Sauce & Spoon Tabletop Menu Tablet Pilot
 
 A project management portfolio piece (Google Project Management Certificate). I acted as the project manager for a pilot rollout of tabletop menu tablets at a restaurant chain, and produced the initiation and planning documents below.
@@ -18,9 +17,10 @@ Click to view the core documentation I created:
 *  **[Project Charter](./artifacts/project-charter.md)** - Summary, goals, scope and exclusions, deliverables, costs and benefits, risks, and six documented stakeholder misalignments with decisions.
 *  **[SMART Goals Analysis](./artifacts/smart-goals-analysis.md)** - Every goal tested against the five SMART criteria, gaps flagged, and five goals rewritten.
 *  **[Stakeholder Analysis](./artifacts/stakeholder-analysis.md)** - Power and interest ratings, an engagement plan for each person, and the [power-interest grid](./artifacts/stakeholder-power-interest-grid.png).
-*  closeout-report.md
-*  project-plan.xlsx
-*  retrospective-review.xlsx
+
+*  **[Project Plan](./artifacts/project-plan.xlsx)** - Task schedule with dependencies and a Gantt chart, plus quality standards and evaluation questions and indicators.
+*  **[Retrospective Review](./artifacts/retrospective-review.xlsx)** - Customer survey and team feedback: what went well, what needs improvement, and actions.
+*  **[Closeout Report](./artifacts/closeout-report.md)** - Summary, methodology, accomplishments, lessons learned, next steps, and a documentation archive for the next project manager.
 
 ##  Highlights
 
@@ -30,7 +30,7 @@ Click to view the core documentation I created:
 * **Built an honest cost-benefit case.** The pilot isn't expected to pay for itself in its 12 weeks (about 32 weeks to payback, or about 19 if the $75 average check goal is met).
 * **Matched communication to influence.** The owner gets short milestone updates, while the kitchen managers handle day-to-day kitchen details so the executive chef isn't pulled into every decision.
 
-##  Methodologies Used
+## 🛠️ Methodologies Used
 
 SMART goals, power-interest grid, cost-benefit analysis, scope and exclusion management, misalignment tracking, change control.
 
@@ -39,6 +39,10 @@ SMART goals, power-interest grid, cost-benefit analysis, scope and exclusion man
 - [x] Project charter
 - [x] SMART goals analysis
 - [x] Stakeholder analysis
+- [x] Project plan and schedule
+- [x] Quality standards and evaluation
+- [x] Retrospective review
+- [x] Closeout report
 - [ ] Communication plan
 - [ ] RACI matrix
 - [ ] Risk register
@@ -46,3 +50,4 @@ SMART goals, power-interest grid, cost-benefit analysis, scope and exclusion man
 ##  About me
 
 I am Morenikeji, an operations and project coordination professional moving fully into tech project management. My background spans operations management, fintech, tech product launches, and event management. I'm looking for remote project management roles.
+
